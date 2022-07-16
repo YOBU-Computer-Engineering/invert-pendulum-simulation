@@ -8,3 +8,7 @@ Input the physical environment vareibles to Matlab I/O
 
 More Info(TR):
 https://www.youtube.com/watch?v=MlRPhM1SG0c
+
+More info about PID 
+https://www.youtube.com/watch?v=fWQWX9-8_sA
+
